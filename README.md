@@ -77,14 +77,10 @@ else
 
 [id]: https://www.baidu.com
 [百度][id]
-[点击这里][id]
-[百度][id]
 
->出现的问题
-![输入图片说明](/imgs/2023-09-24/YMR4EivXTUvsTvly.png)
-![输入图片说明](/imgs/2023-09-24/ViAVSYk1za0MZIAZ.png)
-这种格式才对
-![输入图片说明](/imgs/2023-09-24/1rJaTskgu3YQQgNG.png)
+[点击这里][id]
+
+[百度][id]
 
 
 请参考[标题2](#二级标题)
